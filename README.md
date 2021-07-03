@@ -1,4 +1,4 @@
-# Toy Robot Simulator
+# Toy Robot Simulator By Sirisha
 
 This is a command line Java application that simulates a robot
 on a specifiable grid
@@ -77,9 +77,11 @@ c)
 ## To Install and manage locally on your machine
 
 To Run from the Command line
+
 mvn clean install
 
 This generates jar in the target folder
-now Run below command to execute
+
+Now Run below command to execute
 
 java -jar CustomerDataApi-0.0.1-SNAPSHOT.jar
